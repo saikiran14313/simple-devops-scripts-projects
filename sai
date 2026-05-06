@@ -1,0 +1,5 @@
+#!/bin/bash
+A=7
+B=5
+C=$((A+B))
+echo "$C"
